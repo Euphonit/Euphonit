@@ -1,4 +1,4 @@
-# My names Daniel Crutti, also known as euphonit
+# My name is Daniel Crutti, also known as euphonit
 😄 My pronouns are: He/Him or They/Them
 
 🔭 Stuff i'm working on right now are
