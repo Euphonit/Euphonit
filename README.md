@@ -7,8 +7,8 @@
 
 🎵 My favorite musicians are
 - [Machine Girl](https://machin3gir1.com/)
-- [The Dream Eaters](https://linktr.ee/thedreameaters)
-- [Ginger Root](https://www.gingerrootmusic.com/)
+- [ISSBROKIE](https://issbrokie.com/)
+- [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg)
 
 🙎 Some of my opinions are:
 - My favorite programming launguage is Javascript
