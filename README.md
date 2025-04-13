@@ -12,9 +12,6 @@
 
 🙎 Some of my opinions are:
 - My favorite programming launguage is Javascript
-- There should be a better alternative to git
-- React won
-- Typescript is over-hyped
 - Javascript is not actually that bad, it's just a still evolving and growing langauge that is being used for stuff it was never intended to be used for
 
 📫 You can reach me at dancrutti@gmail.com
