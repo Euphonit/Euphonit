@@ -1,5 +1,5 @@
 # My name is Daniel Crutti, also known as euphonit
-😄 My pronouns are: He/Him or They/Them
+😄 My pronouns are: He/Him or They/Them (I don't care)
 
 🔭 Stuff i'm working on right now are
 - My [website](https://www.euphonit.uk), and the code can also be seen at my [web](https://github.com/Euphonit/web) repository
