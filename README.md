@@ -12,7 +12,7 @@
 
 🙎 Some of my opinions are:
 - My favorite programming launguage is Javascript
-- Javascript is not actually that bad, it's just a still evolving and growing langauge that is being used for stuff it was never intended to be used for
+- Abstraction is great. I think you can use higher level languages without facing that big of performance decreases. Always analyze the scenario before the big picture.
 
 📫 You can reach me at dancrutti@gmail.com
 <!--
