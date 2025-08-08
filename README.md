@@ -3,7 +3,6 @@
 
 🔭 Stuff i'm working on right now are
 - My [website](https://danielcrutti.com), and the code can also be seen at my [web](https://github.com/Euphonit/web) repository
-- [fooyin](https://fooyin.org), A music player that I really like, and contribute to
 
 🎵 My favorite musicians are
 - [Machine Girl](https://machin3gir1.com/)
