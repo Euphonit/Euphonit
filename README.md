@@ -9,7 +9,4 @@
 - [Open Mike Eagle](https://openmikeeagle.bandcamp.com/music)
 - [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg)
 
-🙎 Some of my opinions are:
-- Students are actively mistreated in schools because the position adults are in is a position of unregulated power that does not garuntee students liberties they should be guaranteed.
-
 📫 You can reach me at dancrutti@gmail.com
