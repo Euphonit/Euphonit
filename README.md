@@ -5,8 +5,8 @@
 - My [website](https://danielcrutti.com), and the code can also be seen at my [web](https://github.com/Euphonit/web) repository
 
 🎵 My favorite musicians are
-- [Machine Girl](https://machin3gir1.com/)
+- [Machine Girl](https://machinegirl.bandcamp.com/)
 - [Open Mike Eagle](https://openmikeeagle.bandcamp.com/music)
-- [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg)
+- [Abriction](https://abriction.bandcamp.com/)
 
 📫 You can reach me at dancrutti@gmail.com
