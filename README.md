@@ -2,7 +2,8 @@
 😄 My pronouns are: He/Him
 
 🔭 Stuff i'm working on right now are
-- My [website](https://danielcrutti.com), and the code can also be seen at my [web](https://github.com/Euphonit/web) repository
+- [Quickbend](https://github.com/Euphonit/Quickbend), A qt6 application for creating glitch art
+- My [website](https://danielcrutti.com), the source for which can be seen at my [web](https://github.com/Euphonit/web) repository
 
 🎵 My favorite musicians are
 - [Machine Girl](https://machinegirl.bandcamp.com/)
